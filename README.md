@@ -15,6 +15,7 @@ Um simples divisor de contas feito para treinar o desenvolvimento front-end
 - [X] Fazer o cálculo do valor da gorjeta por pessoa
 - [X] Fazer o cálculo do valor da conta por pessoa
 - [X] Possuir um botão de reset que reinicie todos os campos
+- [ ] Layout deve ser responsivo
 
 # LIVE DEMO
 https://rachae.vercel.app/
