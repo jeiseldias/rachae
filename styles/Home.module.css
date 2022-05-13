@@ -84,18 +84,19 @@
 
 .boxLogo {
     width: 30em;
-    height: 3.5em;
+    height: auto;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    margin-bottom: 3em;
+    margin-bottom: 1em;
 }
 
 .boxLogo span{
     font-family: "Roboto";
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 .boxReset {
