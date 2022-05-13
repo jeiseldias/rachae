@@ -6,7 +6,6 @@
 Um simples divisor de contas feito para treinar o desenvolvimento front-end
 
 # RECURSOS
-
 - [X] Permitir que o usuário digite o valor da conta
 - [X] Permitir que o usuário defina o percentual da gorjeta
 - [X] Permitir que o usuário defina o número de pessoas que estão dividindo a conta
@@ -16,3 +15,6 @@ Um simples divisor de contas feito para treinar o desenvolvimento front-end
 - [X] Fazer o cálculo do valor da gorjeta por pessoa
 - [X] Fazer o cálculo do valor da conta por pessoa
 - [X] Possuir um botão de reset que reinicie todos os campos
+
+# LIVE DEMO
+https://rachae.vercel.app/
