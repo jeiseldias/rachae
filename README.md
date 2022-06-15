@@ -18,4 +18,4 @@ Um simples divisor de contas feito para treinar o desenvolvimento front-end
 - [ ] Layout deve ser responsivo
 
 # LIVE DEMO
-https://rachae.vercel.app/
+https://rachae.jeisel.dev
